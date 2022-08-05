@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amer Shboul</h1>
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+React+Developer;&center=true&width=380&height=45"></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+React+Passionate+Fronted+Developer;&center=true&width=380&height=45"></a>
 </p>
-
-<h3 align="center">A passionate frontend developer from Jordan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shboul1&label=Profile%20views&color=0e75b6&style=flat" alt="shboul1" /> </p>
 
