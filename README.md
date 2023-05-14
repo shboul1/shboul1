@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shboul1&label=Profile%20views&color=0e75b6&style=flat" alt="shboul1" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
-
-- 💬 Ask me about **ReactJS | NodeJs | Front end Tools**
-
 - 📫 How to reach me **shboulv1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
